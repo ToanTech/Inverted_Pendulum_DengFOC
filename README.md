@@ -1,2 +1,2 @@
-# Inverted_Pendulum_DengFOC
+# DengFOC动量轮倒立摆项目
 基于SimpleFOC官方开源的动量轮倒立摆项目，低成本化和小型化后应用在DengFOC上
