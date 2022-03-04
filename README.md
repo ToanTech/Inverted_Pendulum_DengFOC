@@ -3,15 +3,15 @@
 
 **项目完全开源，你可以根据本Github内容自行白嫖，或者，支持一下灯哥的辛勤劳作，进入灯哥开源TB店购买DengFOC动量轮倒立摆套件，一键配齐。**
 
-[DengFOC动量轮倒立摆套件--链接猛击]()
+[DengFOC动量轮倒立摆套件--链接猛击](https://m.tb.cn/h.fmqh3g3?tk=4y0R2f0qtv4)
 
 ![image1](pic/IP_main.gif)
 
 ## 1 视频教程
 
-配套本开源项目，灯哥精心制作了全组装过程视频教程，请电机查看：
+配套本开源项目，灯哥精心制作了全组装过程视频教程，请点击查看：
 
-[DengFOC动量轮倒立摆套件--链接猛击]()
+[DengFOC动量轮倒立摆--视频教程](https://www.bilibili.com/video/BV1SU4y1Z72W/)
 
 ## 2 接线
 
