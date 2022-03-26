@@ -11,7 +11,9 @@
 
 配套本开源项目，灯哥精心制作了全组装过程视频教程，请点击查看：
 
-[DengFOC动量轮倒立摆--视频教程](https://www.bilibili.com/video/BV1SU4y1Z72W/)
+[1 DengFOC动量轮倒立摆--效果展示和机械组装](https://www.bilibili.com/video/BV1SU4y1Z72W/)
+
+[2 DengFOC LQR无刷动量轮倒立摆算法原理和DIY实现](https://www.bilibili.com/video/BV1JL4y177Z5/)
 
 ## 2 接线
 
