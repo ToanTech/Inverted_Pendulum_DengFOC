@@ -3,7 +3,7 @@
 
 **项目完全开源，你可以根据本Github内容自行白嫖，或者，支持一下灯哥的辛勤劳作，进入灯哥开源TB店购买DengFOC动量轮倒立摆套件，一键配齐。**
 
-[DengFOC动量轮倒立摆套件--链接猛击](https://m.tb.cn/h.fmqh3g3?tk=4y0R2f0qtv4)
+[DengFOC动量轮倒立摆套件--链接猛击（进店后在 所有宝贝 处可找到）](https://shop564514875.taobao.com/)
 
 ![image1](pic/IP_main.gif)
 
